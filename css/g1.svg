@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="297px" height="213px" viewBox="0 0 297 213" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#458EF6" offset="0%"></stop>
+            <stop stop-color="#3D23A6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="92.1135912%" id="linearGradient-2">
+            <stop stop-color="#60F5B0" offset="0%"></stop>
+            <stop stop-color="#349243" stop-opacity="0.732506793" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6" transform="translate(-1271.000000, -212.000000)">
+            <g id="Group-5" transform="translate(1261.000000, 205.000000)">
+                <g id="Group-3" transform="translate(92.000000, 0.000000)">
+                    <path d="M47,162 C47,162 74,126.854353 74,83.5 C74,40.1456471 47,5 47,5 C47,5 20,40.1456471 20,83.5 C20,126.854353 47,162 47,162 Z" id="Oval" fill="url(#linearGradient-1)" transform="translate(47.000000, 83.500000) rotate(-15.000000) translate(-47.000000, -83.500000) "></path>
+                    <path d="M87,162 C87,162 114,126.854353 114,83.5 C114,40.1456471 87,5 87,5 C87,5 60,40.1456471 60,83.5 C60,126.854353 87,162 87,162 Z" id="Oval-Copy" fill="url(#linearGradient-2)" style="mix-blend-mode: screen;" transform="translate(87.000000, 83.500000) scale(-1, 1) rotate(-15.000000) translate(-87.000000, -83.500000) "></path>
+                </g>
+                <g id="Group-4" transform="translate(0.000000, 96.000000)">
+                    <g id="Group-2" transform="translate(145.000000, 1.000000)">
+                        <path d="M79,149 C79,149 106,113.854353 106,70.5 C106,27.1456471 79,-8 79,-8 C79,-8 52,27.1456471 52,70.5 C52,113.854353 79,149 79,149 Z" id="Oval-Copy-3" fill="url(#linearGradient-1)" transform="translate(79.000000, 70.500000) scale(-1, 1) rotate(-52.000000) translate(-79.000000, -70.500000) "></path>
+                        <path d="M88.9437841,167.311142 C88.9437841,167.311142 115.943784,132.165494 115.943784,88.8111416 C115.943784,45.4567887 88.9437841,10.3111416 88.9437841,10.3111416 C88.9437841,10.3111416 61.9437841,45.4567887 61.9437841,88.8111416 C61.9437841,132.165494 88.9437841,167.311142 88.9437841,167.311142 Z" id="Oval-Copy-4" fill="url(#linearGradient-2)" style="mix-blend-mode: screen;" transform="translate(88.943784, 88.811142) scale(-1, 1) rotate(-68.000000) translate(-88.943784, -88.811142) "></path>
+                    </g>
+                    <g id="Group">
+                        <path d="M93,149 C93,149 120,113.854353 120,70.5 C120,27.1456471 93,-8 93,-8 C93,-8 66,27.1456471 66,70.5 C66,113.854353 93,149 93,149 Z" id="Oval-Copy-2" fill="url(#linearGradient-1)" transform="translate(93.000000, 70.500000) rotate(-52.000000) translate(-93.000000, -70.500000) "></path>
+                        <path d="M82.9437841,168.311142 C82.9437841,168.311142 109.943784,133.165494 109.943784,89.8111416 C109.943784,46.4567887 82.9437841,11.3111416 82.9437841,11.3111416 C82.9437841,11.3111416 55.9437841,46.4567887 55.9437841,89.8111416 C55.9437841,133.165494 82.9437841,168.311142 82.9437841,168.311142 Z" id="Oval-Copy-5" fill="url(#linearGradient-2)" style="mix-blend-mode: screen;" transform="translate(82.943784, 89.811142) rotate(-68.000000) translate(-82.943784, -89.811142) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
