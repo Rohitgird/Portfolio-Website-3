@@ -2,6 +2,8 @@
     box-sizing: border-box
     overflow: hidden
 
+::selection
+    background-color: #22ffa5
 
 body
     margin: 0
@@ -54,7 +56,7 @@ body
     color: #20B155
     display: inline-block
     position: relative
-    top: 200px
+    top: 100px
     left: 200px
     padding: 10px
     font-family: sans-serif
@@ -99,22 +101,22 @@ video
     width: 300px
     height: 400px
     position: relative
-    top: 100px
+    top: 0px
     left: 200px
     transition: all 0.7s ease
     padding-top: 0
-    z-index: 1
+    z-index: 100
 
-#iecse-vid:hover
-    transform: scale3d(1.2, 1.2, 1.2)
+video:hover
+    transform: scale(1.2, 1.2, 1.2)
 
 
 #design
     color: #E92E1C
     display: inline-block
     position: relative
-    top: 90px
-    left: 70%
+    top: 0px
+    left: 200px
     transform: rotateY(180deg)
     padding: 10px
     font-family: sans-serif
@@ -127,12 +129,15 @@ video
     position: relative
     width: 40%
     height: 100px
-    left: 20%
+    left: 180px
     display: -webkit-flex
     display: -ms-flex
     display: flex
     justify-content: center
     align-items: center
+    transition: all 0.7s ease
+    overflow: visible
+
 
 .mg
     transition: all 0.7s ease
@@ -220,6 +225,8 @@ video
     font-size: 12px
     transition: all 0.2s ease-out
     cursor: pointer
+    transition: all 0.7s ease
+
 
 .blur-text
     -webkit-filter: blur(2px)
@@ -252,17 +259,21 @@ video
     right: 0
     top: 50%
     right: 30%
+    transition: all 0.7s ease
+
 
 #about-col h1
     position: relative
     left: 20px
     font-family: sans-serif
-    color: #eee
+    color: #4e4e4e
 
 #about-col p
-    font-family: sans-serif
+    font-family: 'Roboto', sans-serif
+    color: #757575
     padding: 20px
     padding-bottom: 10px
+    letter-spacing: 0.7px
 
 #line-1, #line-2
     color: rgba(21, 187, 151, 0.68)
@@ -273,3 +284,45 @@ video
     left: 60px
     transform: scale(0.8)
     transform: rotate(-10deg)
+    transition: all 0.7s ease
+
+#nd
+    background-color: #fffeaf
+
+.work-section
+    background: #fff
+    position: absolute
+    left: -100vw
+    height: 100%
+    width: 100%
+    top: 0
+    z-index: 102
+    display: -webkit-flex
+    display: -ms-flex
+    display: flex
+    justify-content: center
+    align-items: center
+    font-family: sans-serif
+
+.fa-angle-left
+    position: absolute
+    top: 30px
+    right: 50px
+    font-weight: bold
+    transform: scale(2)
+    cursor: pointer
+    z-index: 300
+
+#email-address
+    position: relative
+
+#more
+    font-style: italic
+    position: relative
+    left: 10px
+    color: #eee
+    font-family: sans-serif
+    font-size: 10px
+    position: relative
+    z-index: 100
+    left: 10px
