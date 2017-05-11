@@ -117,6 +117,22 @@ video:hover {
   transition: all 0.7s ease;
   z-index: 1; }
 
+#loader {
+  position: absolute;
+  display: none;
+  height: 100vh;
+  width: 100vw;
+  background-color: #000;
+  color: #cfcfd5;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  z-index: 600;
+  font-family: "Lato", sans-serif; }
+
 .img-container {
   position: relative;
   width: 40%;
@@ -284,7 +300,13 @@ video:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: sans-serif; }
+  font-family: sans-serif;
+  flex-direction: column; }
+
+#work-caption {
+  color: #717171;
+  position: relative;
+  top: 200px; }
 
 .fa-angle-left {
   position: absolute;
@@ -302,7 +324,7 @@ video:hover {
   font-style: italic;
   position: relative;
   left: 10px;
-  color: #eee;
+  color: rgba(234, 230, 217, 0.8);
   font-family: sans-serif;
   font-size: 10px;
   position: relative;
